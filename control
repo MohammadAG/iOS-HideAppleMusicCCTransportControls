@@ -1,0 +1,9 @@
+Package: com.mohammadag.hideapplemusictransportcontrolscc
+Name: Hide Apple Music Transport Controls
+Depends: mobilesubstrate
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Hides the Apple music transport controls (like, share)
+Maintainer: Mohammad Abu-Garbeyyeh
+Author: Mohammad Abu-Garbeyyeh
+Section: Tweaks
